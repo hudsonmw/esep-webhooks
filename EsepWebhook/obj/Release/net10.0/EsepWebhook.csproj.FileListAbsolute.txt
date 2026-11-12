@@ -1,0 +1,6 @@
+C:\Users\hudso\VSCode Projects\ESEP2\esep-webhooks\EsepWebhook\obj\Release\net10.0\EsepWebhook.csproj.AssemblyReference.cache
+C:\Users\hudso\VSCode Projects\ESEP2\esep-webhooks\EsepWebhook\obj\Release\net10.0\EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hudso\VSCode Projects\ESEP2\esep-webhooks\EsepWebhook\obj\Release\net10.0\EsepWebhook.AssemblyInfoInputs.cache
+C:\Users\hudso\VSCode Projects\ESEP2\esep-webhooks\EsepWebhook\obj\Release\net10.0\EsepWebhook.AssemblyInfo.cs
+C:\Users\hudso\VSCode Projects\ESEP2\esep-webhooks\EsepWebhook\obj\Release\net10.0\EsepWebhook.csproj.CoreCompileInputs.cache
+C:\Users\hudso\VSCode Projects\ESEP2\esep-webhooks\EsepWebhook\obj\Release\net10.0\EsepWebhook.sourcelink.json
